@@ -53,4 +53,3 @@
 ## 开源许可
 
 本项目采用 **GNU General Public License v3.0**。详细内容请参阅 [LICENSE](./LICENSE) 文件。
-
